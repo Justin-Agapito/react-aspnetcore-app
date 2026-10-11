@@ -1,2 +1,1 @@
-# react-aspnetcore-app
-This is a standard CRUD C# webapi project. This is also contain few languages such as C# react-typescript ASP .NETcore 10
+Learning project: a standard CRUD app using C#, ASP.NET Core 10, React, and TypeScript.
